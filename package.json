@@ -1,0 +1,18 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "social media app is getting ready",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Anuj Patel",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
